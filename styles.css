@@ -11,7 +11,7 @@ html {
   }
   
   header {
-    background: purple;
+    background: #a0d2eb;
     height: 100px;
   }
 
@@ -25,7 +25,8 @@ html {
   article {
     padding: 10px;
     margin: 10px;
-    background: aqua;
+    background: #d0bdf4;
+    border-radius: 20px;
   }
 
   /* Add your flexbox CSS below here */
